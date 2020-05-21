@@ -1,0 +1,76 @@
+body{
+	background-attachment:fixed;
+	background-size: 100% 100%;
+	background-color: #000;
+}
+div#fejléc{
+	border-left: 1px solid #000080;
+	border-right: 1px solid #4040a0;
+	border-top: 1px solid #4040a0;
+	border-bottom: 1px solid #4040a0;
+	font-family:verdana;
+	color: #fff;
+}
+div#Nutellas{
+	float: left;
+	padding-bottom:100px;
+	font-family:verdana;
+	color:#fff;
+	width: 33.3%;
+	height: 780px;
+	border-left: 1px solid #000080;
+	border-right: 1px solid #4040a0;
+	border-top: 1px solid #4040a0;
+	border-bottom: 1px solid #4040a0;
+	
+	
+}
+.img-Npalacsinta{
+	width: 35%
+	
+}
+.img-Tpalacsinta{
+	width: 12%
+}
+.img-Lpalacsinta{
+	width: 35%
+}
+div#Lekvaros{
+	
+	padding-bottom:100px;
+	font-family:verdana;
+	color:#fff;
+	float:right;
+	width: 33.3%;
+	height: 780px;
+	border-left: 1px solid #000080;
+	border-right: 1px solid #4040a0;
+	border-top: 1px solid #4040a0;
+	border-bottom: 1px solid #4040a0;
+}
+div#Turos{
+	padding-bottom:100px;
+	float:center;
+	font-family:verdana;
+	color:#fff;
+	width: 33,3%;
+	height: 780px;
+	border-left: 1px solid #000080;
+	border-right: 1px solid #4040a0;
+	border-top: 1px solid #4040a0;
+	border-bottom: 1px solid #4040a0;
+	
+}
+
+div#container{
+	max-width;
+	max-height;
+	border-left: 1px solid #000080;
+	border-right: 1px solid #4040a0;
+	border-top: 1px solid #4040a0;
+	border-bottom: 1px solid #4040a0;
+}
+#container li{
+	float: center;
+	list-style:none;
+}
