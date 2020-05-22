@@ -13,7 +13,7 @@ div#fejléc{
 div#elso{
 	float:left;
 	width:49.75%;
-	height:100%;
+	height:840px;
 	border-left: 1px solid #fff;
 	border-right: 1px solid #fff;
 	border-top: 1px solid #fff;
@@ -24,7 +24,7 @@ div#elso{
 div#masodik{
 	float:right;
 	width:49.8%;
-	height:49,7%;
+	height:420px;
 	border-left: 1px solid #fff;
 	border-right: 1px solid #fff;
 	border-top: 1px solid #fff;
@@ -45,7 +45,7 @@ div#masodik{
 div#harmadik{
 	float:right;
 	width:49.8%;
-	height:49,7%;
+	height:420px;
 	border-left: 1px solid #fff;
 	border-right: 1px solid #fff;
 	border-top: 1px solid #fff;
