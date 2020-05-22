@@ -9,7 +9,7 @@ div#fejléc{
 }
 div#elso{
 	float:left;
-	width:49.9%;
+	width:49.85%;
 	height:420px;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
@@ -28,7 +28,7 @@ h1{
 
 
 div#masodik{
-	float:left;
+	float:right;
 	width:49.8%;
 	height:420px;
 	border-left: 1px solid #000;
@@ -40,7 +40,7 @@ div#masodik{
 }
 div#harmadik{
 	float:right;
-	width:49.9%;
+	width:49.8%;
 	height:420px;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
@@ -55,8 +55,8 @@ div#harmadik{
 	border-radius: 50%;
 }
 div#negyedik{
-	float:right;
-	width:49.8%;
+	float:left;
+	width:49.85%;
 	height:420px;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
