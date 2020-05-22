@@ -1,4 +1,4 @@
-body{
+﻿body{
 	background-attachment:fixed;
 	background-size: 100% 100%;
 	background-color: #dac292
@@ -9,7 +9,7 @@ div#fejléc{
 }
 div#elso{
 	float:left;
-	width:49.7%;
+	width:40.7%;
 	height:420px;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
